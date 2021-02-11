@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=anupkumarpanwar&color=blue)
+
 # Let's Connect <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
 <a target="_blank" href="https://www.linkedin.com/in/anupkumarpanwar/" target="_blank">
